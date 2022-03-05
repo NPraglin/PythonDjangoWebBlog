@@ -1,8 +1,5 @@
-# This project is a web blog utilizing
-  -Python
-  -Django
-  -Crispy Forms
-  -Heroku & AWS
+# This project is a web blog for Chess
+  Built with Python, Django, Crispy Forms, Bootstrap, Bootswatch, and deployed via Heroku & AWS
 
 Live Link:
 http://nathansdjangoapp.herokuapp.com/
